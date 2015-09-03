@@ -1,0 +1,13 @@
+{
+    "name": "AmazonS3Client Documentation",
+    "description": "API Documentation for the AmazonS3Client class",
+    "version": "1.0.0",
+    "url": "https://github.com/carlosascari/AmazonS3Client",
+    "logo": "",
+    "options": {
+        "paths": "./",
+        "outdir": "./documentation",
+        "linkNatives": true,
+        "tabtospace": 4
+    }
+}
