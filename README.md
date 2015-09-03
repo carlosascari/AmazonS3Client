@@ -35,6 +35,8 @@ Include the client wherever appropriate
 require 'path/to/AmazonS3Client.php';
 ```
 
+**Note** mime_type_lib.php file is not included, google it, download it and include it for mimetype detection.
+
 ## API
 
 function **deleteFile**($object_id)
